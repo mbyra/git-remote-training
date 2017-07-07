@@ -14,3 +14,5 @@ i jeszcze jedna zmiana na localu zeby ladnie wygladalo do rebase
 teraz juz naprawde zrobie tego rebase. local 1
 
 bede robil rebase. remote 1
+
+bede robil rebase. remote 2
