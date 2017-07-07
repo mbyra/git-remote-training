@@ -1,1 +1,5 @@
-# git-remote-trainingjakis tam tekst
+# git-remote-training
+
+jakis tam tekst
+
+i jeszcze jedna linijka
