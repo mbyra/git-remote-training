@@ -9,3 +9,4 @@ dodatkowa linijka w remote
 
 juz po zmergowaniu kolejny commit
 
+teraz zmienie cos na localu
