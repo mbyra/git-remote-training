@@ -11,3 +11,4 @@ juz po zmergowaniu kolejny commit
 
 teraz zmienie cos na localu
 i jeszcze jedna zmiana na localu zeby ladnie wygladalo do rebase
+teraz juz naprawde zrobie tego rebase. local 1
