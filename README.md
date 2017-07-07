@@ -1,1 +1,1 @@
-# git-remote-training
+# git-remote-trainingjakis tam tekst
